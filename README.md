@@ -10,7 +10,7 @@ Watch YouTube for Smart TV & Android Phones.
 
 4) [Puffin TV Browser.apk](Puffin_TV_Browser_v8.3.1.41486.apk)
 
-4) [VidMate HD Video Downloader.apk](VidMate_HD_v4.3524.apk)
+5) [VidMate HD Video Downloader.apk](VidMate_HD_v4.3524.apk)
 <hr/>
 
 Watch Live TV Channels for these apps.
