@@ -37,6 +37,6 @@ Watch foreign TV & Web Series use VPN or Browser apps.
 <hr/>
 
 
-Check Our all android Apps for [Google Play](https://play.google.com/store/apps/developer?id=Creative+Studio+BD)
+Check all our android Apps in [Google Play](https://play.google.com/store/apps/developer?id=Creative+Studio+BD)
 
 
