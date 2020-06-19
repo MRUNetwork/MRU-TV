@@ -1,4 +1,4 @@
-Internet Service Provider (ISP) in Mirpur-11, Dhaka 1216.
+Internet Service Provider in Mirpur-11, Dhaka 1216.
 
 #### All this files uploaded by MRU Network.
 <hr/>
